@@ -18,7 +18,11 @@ header {
 
 header h1 {
   margin: 0;
+  font-weight: 700;
+  font-size: 1.75rem;
+  letter-spacing: -0.25px;
 }
+
 
 header label {
   display: flex;
